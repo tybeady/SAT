@@ -1,0 +1,8 @@
+Idea	Description	Difficulty (1-10)	Potential for Profit	Tylers Vote(1-10)	Sams Vote (1-10)	Notes
+Make Game	None Needed	3-8	Low	7		difficulty range so wide due to differing levels of complexity
+Something AI	pick dataset and learn something from it	4	None	4		
+Equation Solver	T: User would input multiple equations then given known variables the system attempts to solve. Could evolve to consume textbooks.	5	Low/Medium	8		Could be made into a full blown app with users equations database linked
+hgr watcher	I already started this a bit but basically the idea is you set up a search through the parameters the website provides then we change the url to not limit search results ie (https://hgrinc.com/surplus/electronics/?all=0&last_chance=&view=grid&aisle=&from=&to=&markdowns=0&newarrivals=1&sort=&kw=&per_page=24&min_price=0&max_price=100&pn=1) then change per_page. Then we notify the user when something changes with there search	7	Medium/High	6		hardest part is probably gonna be the front end.
+Unwanted Analytics	Make a 'universal scraper' that could scrape data from all tables on a website maybe apply decision tree after to attempt to diserne info about products that the company wouldn't know about	3	Medium	4		profit in the form of reaching out to the company and offering to sell analytics
+Arduinos?	Placeholder for more specific projects to do					
+Stocks?	make a trade bot	10	High	5		My dad has tried pushing me to use my skills to write a stock bot problem is knowing all the theory
